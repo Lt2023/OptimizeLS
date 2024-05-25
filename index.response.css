@@ -1,92 +1,178 @@
 .page {
   position: relative;
   width: 100vw;
-  height: 56.68vw;
+  height: 56.25vw;
   overflow: hidden;
 }
 
-.box_1 {
-  background-color: rgba(255, 255, 255, 1);
-  height: 56.68vw;
+.section_1 {
+  background-color: rgba(27, 27, 31, 1);
+  height: 56.25vw;
   width: 100vw;
 }
 
-.image-wrapper_1 {
-  width: 30.01vw;
-  height: 13.64vw;
-  margin: -4.54vw 0 0 83.67vw;
+.box_7 {
+  width: 97.27vw;
+  height: 3.21vw;
+  margin: 0.78vw 0 0 0.93vw;
 }
 
-.image_1 {
-  width: 30.01vw;
-  height: 13.64vw;
-}
-
-.group_1 {
-  width: 63.97vw;
-  height: 30.94vw;
-  margin: 4.45vw 0 0 13.12vw;
-}
-
-.image_2 {
-  width: 23.85vw;
-  height: 24.12vw;
-}
-
-.text-group_1 {
-  width: 36.93vw;
-  height: 24.22vw;
-  margin-top: 6.73vw;
+.label_1 {
+  width: 2.35vw;
+  height: 2.35vw;
 }
 
 .text_1 {
-  width: 36.93vw;
-  height: 14.43vw;
+  width: 6.57vw;
+  height: 1.49vw;
   overflow-wrap: break-word;
-  color: rgba(253, 180, 5, 1);
-  font-size: 9.23vw;
-  font-family: Baloo Thambi 2-Regular;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.25vw;
+  font-family: HarmonyOS Sans SC-Regular;
   font-weight: NaN;
   text-align: left;
   white-space: nowrap;
-  line-height: 14.43vw;
+  line-height: 1.49vw;
+  margin: 0.62vw 0 0 0.39vw;
+}
+
+.box_2 {
+  background-color: rgba(22, 22, 24, 1);
+  border-radius: 6px;
+  width: 3.75vw;
+  height: 1.33vw;
+  margin: 0.62vw 0 0 0.93vw;
+}
+
+.thumbnail_1 {
+  width: 0.63vw;
+  height: 0.63vw;
+  margin: 0.39vw 0 0 0.31vw;
 }
 
 .text_2 {
-  text-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
-  width: 20.04vw;
-  height: 9.7vw;
+  width: 0.79vw;
+  height: 0.47vw;
   overflow-wrap: break-word;
-  color: rgba(61, 61, 61, 1);
-  font-size: 6.67vw;
-  font-family: Source Han Sans-Regular;
+  color: rgba(148, 148, 155, 1);
+  font-size: 0.39vw;
+  font-family: HarmonyOS Sans SC-Regular;
   font-weight: NaN;
   text-align: left;
   white-space: nowrap;
-  line-height: 9.7vw;
-  margin: 0.09vw 0 0 2.5vw;
+  line-height: 0.47vw;
+  margin: 0.46vw 1.79vw 0 0.23vw;
 }
 
-.group_2 {
-  width: 85.26vw;
-  height: 14.94vw;
-  margin: 0 0 2.73vw -21.19vw;
-}
-
-.image_3 {
-  width: 42.4vw;
-  height: 14.94vw;
+.label_2 {
+  width: 2.19vw;
+  height: 2.04vw;
+  margin: 0.85vw 0 0 65.7vw;
 }
 
 .text_3 {
-  width: 17.58vw;
-  height: 2.46vw;
+  width: 4.07vw;
+  height: 2.35vw;
   overflow-wrap: break-word;
-  color: rgba(61, 61, 61, 1);
-  font-size: 1.11vw;
-  font-family: Source Han Sans-Regular;
+  color: rgba(153, 161, 230, 1);
+  font-size: 2.03vw;
+  font-family: HarmonyOS Sans SC-Regular;
   font-weight: NaN;
   text-align: left;
-  line-height: 1.63vw;
-  margin-top: 8.91vw;
+  white-space: nowrap;
+  line-height: 2.35vw;
+  margin: 0.85vw 0 0 0.31vw;
+}
+
+.box_3 {
+  background-color: rgba(216, 216, 216, 1);
+  border-radius: 765px;
+  width: 0.08vw;
+  height: 1.96vw;
+  margin: 1.01vw 0 0 0.62vw;
+}
+
+.text_4 {
+  width: 9.77vw;
+  height: 2.19vw;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.87vw;
+  font-family: HarmonyOS Sans SC-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 2.19vw;
+  margin: 0.85vw 0 0 0.54vw;
+}
+
+.box_8 {
+  width: 78.68vw;
+  height: 11.49vw;
+  margin: 2.03vw 0 0 6.48vw;
+}
+
+.text-wrapper_2 {
+  width: 20vw;
+  height: 9.46vw;
+  margin-top: 2.04vw;
+}
+
+.text_5 {
+  width: 20vw;
+  height: 5.86vw;
+  overflow-wrap: break-word;
+  color: rgba(168, 177, 255, 1);
+  font-size: 5vw;
+  font-family: HarmonyOS Sans SC-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 5.86vw;
+}
+
+.text_6 {
+  width: 15.94vw;
+  height: 2.19vw;
+  overflow-wrap: break-word;
+  color: rgba(223, 223, 214, 1);
+  font-size: 1.87vw;
+  font-family: HarmonyOS Sans SC-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 2.19vw;
+  margin: -0.31vw 0 0 0.54vw;
+}
+
+.text_7 {
+  width: 3.13vw;
+  height: 1.8vw;
+  overflow-wrap: break-word;
+  color: rgba(149, 151, 159, 1);
+  font-size: 1.56vw;
+  font-family: HarmonyOS Sans SC-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.8vw;
+  margin: -0.07vw 0 0 0.54vw;
+}
+
+.image_1 {
+  width: 11.18vw;
+  height: 11.49vw;
+}
+
+.box_9 {
+  width: 93.36vw;
+  height: 33.99vw;
+  margin: 2.34vw 0 2.42vw 3.35vw;
+}
+
+.box_6 {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 16px;
+  width: 93.36vw;
+  height: 33.99vw;
 }

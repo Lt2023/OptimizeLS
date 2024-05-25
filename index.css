@@ -1,92 +1,178 @@
 .page {
   position: relative;
-  width: 2156px;
-  height: 1222px;
+  width: 1280px;
+  height: 720px;
   overflow: hidden;
 }
 
-.box_1 {
-  background-color: rgba(255, 255, 255, 1);
-  height: 1222px;
-  width: 2156px;
+.section_1 {
+  background-color: rgba(27, 27, 31, 1);
+  height: 720px;
+  width: 1280px;
 }
 
-.image-wrapper_1 {
-  width: 647px;
-  height: 294px;
-  margin: -98px 0 0 1804px;
+.box_7 {
+  width: 1245px;
+  height: 41px;
+  margin: 10px 0 0 12px;
 }
 
-.image_1 {
-  width: 647px;
-  height: 294px;
-}
-
-.group_1 {
-  width: 1379px;
-  height: 667px;
-  margin: 96px 0 0 283px;
-}
-
-.image_2 {
-  width: 514px;
-  height: 520px;
-}
-
-.text-group_1 {
-  width: 796px;
-  height: 522px;
-  margin-top: 145px;
+.label_1 {
+  width: 30px;
+  height: 30px;
 }
 
 .text_1 {
-  width: 796px;
-  height: 311px;
+  width: 84px;
+  height: 19px;
   overflow-wrap: break-word;
-  color: rgba(253, 180, 5, 1);
-  font-size: 199px;
-  font-family: Baloo Thambi 2-Regular;
+  color: rgba(255, 255, 255, 1);
+  font-size: 16px;
+  font-family: HarmonyOS Sans SC-Regular;
   font-weight: NaN;
   text-align: left;
   white-space: nowrap;
-  line-height: 311px;
+  line-height: 19px;
+  margin: 8px 0 0 5px;
+}
+
+.box_2 {
+  background-color: rgba(22, 22, 24, 1);
+  border-radius: 6px;
+  width: 48px;
+  height: 17px;
+  margin: 8px 0 0 12px;
+}
+
+.thumbnail_1 {
+  width: 8px;
+  height: 8px;
+  margin: 5px 0 0 4px;
 }
 
 .text_2 {
-  text-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
-  width: 432px;
-  height: 209px;
+  width: 10px;
+  height: 6px;
   overflow-wrap: break-word;
-  color: rgba(61, 61, 61, 1);
-  font-size: 144px;
-  font-family: Source Han Sans-Regular;
+  color: rgba(148, 148, 155, 1);
+  font-size: 5px;
+  font-family: HarmonyOS Sans SC-Regular;
   font-weight: NaN;
   text-align: left;
   white-space: nowrap;
-  line-height: 209px;
-  margin: 2px 0 0 54px;
+  line-height: 6px;
+  margin: 6px 23px 0 3px;
 }
 
-.group_2 {
-  width: 1838px;
-  height: 322px;
-  margin: 0 0 59px -457px;
-}
-
-.image_3 {
-  width: 914px;
-  height: 322px;
+.label_2 {
+  width: 28px;
+  height: 26px;
+  margin: 11px 0 0 841px;
 }
 
 .text_3 {
-  width: 379px;
-  height: 53px;
+  width: 52px;
+  height: 30px;
   overflow-wrap: break-word;
-  color: rgba(61, 61, 61, 1);
-  font-size: 24px;
-  font-family: Source Han Sans-Regular;
+  color: rgba(153, 161, 230, 1);
+  font-size: 26px;
+  font-family: HarmonyOS Sans SC-Regular;
   font-weight: NaN;
   text-align: left;
-  line-height: 35px;
-  margin-top: 192px;
+  white-space: nowrap;
+  line-height: 30px;
+  margin: 11px 0 0 4px;
+}
+
+.box_3 {
+  background-color: rgba(216, 216, 216, 1);
+  border-radius: 765px;
+  width: 1px;
+  height: 25px;
+  margin: 13px 0 0 8px;
+}
+
+.text_4 {
+  width: 125px;
+  height: 28px;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 24px;
+  font-family: HarmonyOS Sans SC-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 28px;
+  margin: 11px 0 0 7px;
+}
+
+.box_8 {
+  width: 1007px;
+  height: 147px;
+  margin: 26px 0 0 83px;
+}
+
+.text-wrapper_2 {
+  width: 256px;
+  height: 121px;
+  margin-top: 26px;
+}
+
+.text_5 {
+  width: 256px;
+  height: 75px;
+  overflow-wrap: break-word;
+  color: rgba(168, 177, 255, 1);
+  font-size: 64px;
+  font-family: HarmonyOS Sans SC-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 75px;
+}
+
+.text_6 {
+  width: 204px;
+  height: 28px;
+  overflow-wrap: break-word;
+  color: rgba(223, 223, 214, 1);
+  font-size: 24px;
+  font-family: HarmonyOS Sans SC-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 28px;
+  margin: -4px 0 0 7px;
+}
+
+.text_7 {
+  width: 40px;
+  height: 23px;
+  overflow-wrap: break-word;
+  color: rgba(149, 151, 159, 1);
+  font-size: 20px;
+  font-family: HarmonyOS Sans SC-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 23px;
+  margin: -1px 0 0 7px;
+}
+
+.image_1 {
+  width: 143px;
+  height: 147px;
+}
+
+.box_9 {
+  width: 1195px;
+  height: 435px;
+  margin: 30px 0 31px 43px;
+}
+
+.box_6 {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 16px;
+  width: 1195px;
+  height: 435px;
 }

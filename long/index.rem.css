@@ -1,0 +1,96 @@
+html {
+  font-size: 37.5px;
+}
+
+.page {
+  position: relative;
+  width: 57.494rem;
+  height: 32.587rem;
+  overflow: hidden;
+}
+
+.box_1 {
+  background-color: rgba(255, 255, 255, 1);
+  height: 32.587rem;
+  width: 57.494rem;
+}
+
+.image-wrapper_1 {
+  width: 17.254rem;
+  height: 7.84rem;
+  margin: -2.614rem 0 0 48.107rem;
+}
+
+.image_1 {
+  width: 17.254rem;
+  height: 7.84rem;
+}
+
+.group_1 {
+  width: 36.774rem;
+  height: 17.787rem;
+  margin: 2.56rem 0 0 7.547rem;
+}
+
+.image_2 {
+  width: 13.707rem;
+  height: 13.867rem;
+}
+
+.text-group_1 {
+  width: 21.227rem;
+  height: 13.92rem;
+  margin-top: 3.867rem;
+}
+
+.text_1 {
+  width: 21.227rem;
+  height: 8.294rem;
+  overflow-wrap: break-word;
+  color: rgba(253, 180, 5, 1);
+  font-size: 5.306rem;
+  font-family: Baloo Thambi 2-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 8.294rem;
+}
+
+.text_2 {
+  text-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+  width: 11.52rem;
+  height: 5.574rem;
+  overflow-wrap: break-word;
+  color: rgba(61, 61, 61, 1);
+  font-size: 3.84rem;
+  font-family: Source Han Sans-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 5.574rem;
+  margin: 0.054rem 0 0 1.44rem;
+}
+
+.group_2 {
+  width: 49.014rem;
+  height: 8.587rem;
+  margin: 0 0 1.574rem -12.187rem;
+}
+
+.image_3 {
+  width: 24.374rem;
+  height: 8.587rem;
+}
+
+.text_3 {
+  width: 10.107rem;
+  height: 1.414rem;
+  overflow-wrap: break-word;
+  color: rgba(61, 61, 61, 1);
+  font-size: 0.64rem;
+  font-family: Source Han Sans-Regular;
+  font-weight: NaN;
+  text-align: left;
+  line-height: 0.934rem;
+  margin-top: 5.12rem;
+}

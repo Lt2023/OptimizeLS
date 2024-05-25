@@ -4,93 +4,179 @@ html {
 
 .page {
   position: relative;
-  width: 57.494rem;
-  height: 32.587rem;
+  width: 34.134rem;
+  height: 19.2rem;
   overflow: hidden;
 }
 
-.box_1 {
-  background-color: rgba(255, 255, 255, 1);
-  height: 32.587rem;
-  width: 57.494rem;
+.section_1 {
+  background-color: rgba(27, 27, 31, 1);
+  height: 19.2rem;
+  width: 34.134rem;
 }
 
-.image-wrapper_1 {
-  width: 17.254rem;
-  height: 7.84rem;
-  margin: -2.614rem 0 0 48.107rem;
+.box_7 {
+  width: 33.2rem;
+  height: 1.094rem;
+  margin: 0.267rem 0 0 0.32rem;
 }
 
-.image_1 {
-  width: 17.254rem;
-  height: 7.84rem;
-}
-
-.group_1 {
-  width: 36.774rem;
-  height: 17.787rem;
-  margin: 2.56rem 0 0 7.547rem;
-}
-
-.image_2 {
-  width: 13.707rem;
-  height: 13.867rem;
-}
-
-.text-group_1 {
-  width: 21.227rem;
-  height: 13.92rem;
-  margin-top: 3.867rem;
+.label_1 {
+  width: 0.8rem;
+  height: 0.8rem;
 }
 
 .text_1 {
-  width: 21.227rem;
-  height: 8.294rem;
+  width: 2.24rem;
+  height: 0.507rem;
   overflow-wrap: break-word;
-  color: rgba(253, 180, 5, 1);
-  font-size: 5.306rem;
-  font-family: Baloo Thambi 2-Regular;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.426rem;
+  font-family: HarmonyOS Sans SC-Regular;
   font-weight: NaN;
   text-align: left;
   white-space: nowrap;
-  line-height: 8.294rem;
+  line-height: 0.507rem;
+  margin: 0.214rem 0 0 0.134rem;
+}
+
+.box_2 {
+  background-color: rgba(22, 22, 24, 1);
+  border-radius: 6px;
+  width: 1.28rem;
+  height: 0.454rem;
+  margin: 0.214rem 0 0 0.32rem;
+}
+
+.thumbnail_1 {
+  width: 0.214rem;
+  height: 0.214rem;
+  margin: 0.134rem 0 0 0.107rem;
 }
 
 .text_2 {
-  text-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
-  width: 11.52rem;
-  height: 5.574rem;
+  width: 0.267rem;
+  height: 0.16rem;
   overflow-wrap: break-word;
-  color: rgba(61, 61, 61, 1);
-  font-size: 3.84rem;
-  font-family: Source Han Sans-Regular;
+  color: rgba(148, 148, 155, 1);
+  font-size: 0.133rem;
+  font-family: HarmonyOS Sans SC-Regular;
   font-weight: NaN;
   text-align: left;
   white-space: nowrap;
-  line-height: 5.574rem;
-  margin: 0.054rem 0 0 1.44rem;
+  line-height: 0.16rem;
+  margin: 0.16rem 0.614rem 0 0.08rem;
 }
 
-.group_2 {
-  width: 49.014rem;
-  height: 8.587rem;
-  margin: 0 0 1.574rem -12.187rem;
-}
-
-.image_3 {
-  width: 24.374rem;
-  height: 8.587rem;
+.label_2 {
+  width: 0.747rem;
+  height: 0.694rem;
+  margin: 0.294rem 0 0 22.427rem;
 }
 
 .text_3 {
-  width: 10.107rem;
-  height: 1.414rem;
+  width: 1.387rem;
+  height: 0.8rem;
   overflow-wrap: break-word;
-  color: rgba(61, 61, 61, 1);
-  font-size: 0.64rem;
-  font-family: Source Han Sans-Regular;
+  color: rgba(153, 161, 230, 1);
+  font-size: 0.693rem;
+  font-family: HarmonyOS Sans SC-Regular;
   font-weight: NaN;
   text-align: left;
-  line-height: 0.934rem;
-  margin-top: 5.12rem;
+  white-space: nowrap;
+  line-height: 0.8rem;
+  margin: 0.294rem 0 0 0.107rem;
+}
+
+.box_3 {
+  background-color: rgba(216, 216, 216, 1);
+  border-radius: 765px;
+  width: 0.027rem;
+  height: 0.667rem;
+  margin: 0.347rem 0 0 0.214rem;
+}
+
+.text_4 {
+  width: 3.334rem;
+  height: 0.747rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.64rem;
+  font-family: HarmonyOS Sans SC-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.747rem;
+  margin: 0.294rem 0 0 0.187rem;
+}
+
+.box_8 {
+  width: 26.854rem;
+  height: 3.92rem;
+  margin: 0.694rem 0 0 2.214rem;
+}
+
+.text-wrapper_2 {
+  width: 6.827rem;
+  height: 3.227rem;
+  margin-top: 0.694rem;
+}
+
+.text_5 {
+  width: 6.827rem;
+  height: 2rem;
+  overflow-wrap: break-word;
+  color: rgba(168, 177, 255, 1);
+  font-size: 1.706rem;
+  font-family: HarmonyOS Sans SC-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 2rem;
+}
+
+.text_6 {
+  width: 5.44rem;
+  height: 0.747rem;
+  overflow-wrap: break-word;
+  color: rgba(223, 223, 214, 1);
+  font-size: 0.64rem;
+  font-family: HarmonyOS Sans SC-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.747rem;
+  margin: -0.107rem 0 0 0.187rem;
+}
+
+.text_7 {
+  width: 1.067rem;
+  height: 0.614rem;
+  overflow-wrap: break-word;
+  color: rgba(149, 151, 159, 1);
+  font-size: 0.533rem;
+  font-family: HarmonyOS Sans SC-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.614rem;
+  margin: -0.027rem 0 0 0.187rem;
+}
+
+.image_1 {
+  width: 3.814rem;
+  height: 3.92rem;
+}
+
+.box_9 {
+  width: 31.867rem;
+  height: 11.6rem;
+  margin: 0.8rem 0 0.827rem 1.147rem;
+}
+
+.box_6 {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 16px;
+  width: 31.867rem;
+  height: 11.6rem;
 }
